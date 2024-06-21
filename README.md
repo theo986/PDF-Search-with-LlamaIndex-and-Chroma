@@ -1,6 +1,6 @@
 # Retrieval Augmented Generation Engine using LlamaIndex, Chroma, OpenAI and Streamlit
 
-![Demo](data/demo.gif) # Changer ce lien 
+![Demo](data/demo.gif) 
 
 ## Overview
 
